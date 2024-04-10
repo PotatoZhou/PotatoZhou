@@ -1,4 +1,8 @@
 ### Hi there, I am Zhou GuoJin/PotatoZhou/ElderlyUncleZhou 👋
+## 🔭
+## ⚡ Fun fact:
+----
+what?
 
 <!--
 **PotatoZhou/PotatoZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
