@@ -1,9 +1,8 @@
-### Hi there, I am Zhou GuoJin/PotatoZhou/ElderlyUncleZhou 👋
-## 🔭
+### Hi there, Zhou GuoJin/PotatoZhou/ElderlyUncleZhou speaking 👋
+## Who is Zhou GuoJin ???
+🔭 Currently a honours math undergraduate coop student in [University of Waterloo (uwaterloo)](https://uwaterloo.ca/), a Software engineer intern in [Iflytek](https://www.iflytek.com/en/about-us/about.html) && a llm platform software engineer intern in [listenai](https://www.listenai.com/about/). previously a 
 ## ⚡ Fun fact:
-----
-what?
-
+hmmmmm,
 <!--
 **PotatoZhou/PotatoZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## AAAA
