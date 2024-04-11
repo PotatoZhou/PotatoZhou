@@ -14,7 +14,7 @@ a intern Software engineer intern at [Iflytek](https://www.iflytek.com/en/about-
 a intern llm platform software engineer at [listenai](https://www.listenai.com/about/). mainly focus on smart home (ai/iot).
 
 
-previously 
+🌱 Previously 
 
 intern Software engineer(backend) at [zhixixing](),
 
