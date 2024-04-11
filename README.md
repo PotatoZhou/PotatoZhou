@@ -7,7 +7,7 @@ locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wiki
 ## Education && Coops
 🔭 Currently
 
-a undergraduate coop student in Faculty of Mathematics of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)
+> a undergraduate coop student in Faculty of Mathematics of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)
 
 a intern Software engineer intern at [Iflytek](https://www.iflytek.com/en/about-us/about.html) &&
 
