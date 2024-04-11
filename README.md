@@ -8,15 +8,20 @@ locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wiki
 🔭 Currently
 
 > a undergraduate coop student in Faculty of Mathematics of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)
+> 
 > a intern Software engineer intern at [Iflytek](https://www.iflytek.com/en/about-us/about.html) &&
+>
 > a intern llm platform software engineer at [Listenai](https://www.listenai.com/about/). mainly focus on smart home (ai/iot).
 
 
 🌱 Previously 
 
 > intern Software engineer(backend) at [zhixixing](),
+> 
 > Data intern(nlp) at [Viomi](),
+> 
 > intern Software engineer(frontend) at [Viomi](),
+> 
 > intern Data analyst at [Fongwell]().
 
 
