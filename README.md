@@ -26,10 +26,10 @@ locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wiki
 
 
 ## ⚡ Fun fact:
+not fun at all
 
-hmmmmm, I practice kung fu(wingchun) at middle school!
 <!--
-**PotatoZhou/PotatoZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PotatoZhou/PotatoZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. hmmmmm, I practice kung fu(wingchun) at middle school!
 
 Here are some ideas to get you started:
 
