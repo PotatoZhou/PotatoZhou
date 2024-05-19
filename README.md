@@ -10,7 +10,7 @@ locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wiki
 🔭 Currently
 
 
->  A undergraduate Mathematics coop student of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)
+<h4 align="center">A undergraduate Mathematics coop student of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)</h4>
 > a intern Software engineer intern at [Iflytek](https://www.iflytek.com/en/about-us/about.html) &&
 >
 > a intern llm platform software engineer at [Listenai](https://www.listenai.com/about/). mainly focus on smart home (ai/iot).
