@@ -1,13 +1,11 @@
-### Hi there, Zhou GuoJin/PotatoZhou/ElderlyUncleZhou speaking 👋
-## Who is Zhou GuoJin ???
-I am a mathematics coop student, my passion lies in compMath/AI/smart home/JDM cars/basketball...,
+<h3 aligin="center"> A undergraduate Mathematics coop student of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)</h3>
 
 locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wikitravel.org/en/Waterloo). 
 
 ## Education && Coops
 🔭 Currently
 
-<h3 aligin="center"> A undergraduate Mathematics coop student of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)</h3>
+
 > 
 > a intern Software engineer intern at [Iflytek](https://www.iflytek.com/en/about-us/about.html) &&
 >
