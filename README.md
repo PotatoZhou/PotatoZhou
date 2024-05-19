@@ -4,28 +4,15 @@
 
 <h3 align="center">A Coop math Undergraduate student</h3>
 
-locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wikitravel.org/en/Waterloo). 
+locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wikitravel.org/en/Waterloo). studying at [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)
 
-## Education && Coops
-🔭 Currently
-
-
-<h4 align="center">A undergraduate Mathematics coop student of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)</h4>
-> a intern Software engineer intern at [Iflytek](https://www.iflytek.com/en/about-us/about.html) &&
->
-> a intern llm platform software engineer at [Listenai](https://www.listenai.com/about/). mainly focus on smart home (ai/iot).
-
-
-🌱 Previously 
-
-> intern Software engineer(backend) at [zhixixing](),
-> 
-> Data intern(nlp) at [Viomi](),
-> 
-> intern Software engineer(frontend) at [Viomi](),
-> 
-> intern Data analyst at [Fongwell]().
-
+<h4 align="center">a intern llm platform software engineer at [Listenai](https://www.listenai.com/about/). mainly focus on smart home (ai/iot).</h4>
+<h4 align="center">a intern Software engineer intern at [Iflytek](https://www.iflytek.com/en/about-us/about.html) </h4>
+<h4 align="center">a former intern Software engineer(frontend) at [Viomi]()</h4>
+<h4 align="center">a former intern Software engineer(backend) at [zhixixing]()</h4>
+<h4 align="center">a former Data intern(nlp) at [Viomi](),</h4>
+<h4 align="center">a former intern Data analyst at [Fongwell]().</h4>
+🌱
 
 <!--
 ## ⚡ Fun fact:
