@@ -12,7 +12,12 @@
 <h4 align="center">a former intern Software engineer(backend) at [zhixixing]()</h4>
 <h4 align="center">a former Data intern(nlp) at [Viomi](),</h4>
 <h4 align="center">a former intern Data analyst at [Fongwell]().</h4>
-
+<br/>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
 <!--
 ## ⚡ Fun fact:
