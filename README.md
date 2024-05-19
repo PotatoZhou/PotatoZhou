@@ -4,9 +4,9 @@
 
 <h2 align="center">A Coop math Undergraduate student</h2>
 
-<h4 align="center">🌱 locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wikitravel.org/en/Waterloo).</h4>
+<h4 align="center">🌱 locate in Foshan and Waterloo.</h4>
 <h4 align="center">studying at University of Waterloo</h4>
-
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAA…Z/3Aqzy3Xbx2N/1mUvR/5b9OiQbgoxnZmAAAAAElFTkSuQmCC" />
 <h4 align="center">a intern llm platform software engineer at Listenai</h4>
 <h4 align="center">a intern Software engineer intern at Iflytek </h4>
 <h4 align="center">a former intern Software engineer(frontend) at Viomi</h4>
