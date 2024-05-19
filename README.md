@@ -19,7 +19,6 @@
     <img src="https://skillicons.dev/icons?i=python,react,vue,vscode,nodejs,javascript,tailwindcss,git,r" />
     <br/>
     <img src="https://skillicons.dev/icons?i=golang,c,java,nextjs,vite, mysql,flask" />
-  
 </div>
 
 <!--
