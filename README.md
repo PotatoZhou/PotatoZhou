@@ -5,14 +5,14 @@
 <h2 align="center">A Coop math Undergraduate student</h2>
 
 <h4 align="center">🌱 locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wikitravel.org/en/Waterloo).</h4>
-<h4 align="center">studying at [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)</h4>
+<h4 align="center">studying at University of Waterloo</h4>
 
-<h4 align="center">a intern llm platform software engineer at [Listenai](https://www.listenai.com/about/)</h4>
-<h4 align="center">a intern Software engineer intern at [Iflytek](https://www.iflytek.com/en/about-us/about.html) </h4>
-<h4 align="center">a former intern Software engineer(frontend) at [Viomi]()</h4>
-<h4 align="center">a former intern Software engineer(backend) at [zhixixing]()</h4>
-<h4 align="center">a former Data intern(nlp) at [Viomi](),</h4>
-<h4 align="center">a former intern Data analyst at [Fongwell]().</h4>
+<h4 align="center">a intern llm platform software engineer at Listenai</h4>
+<h4 align="center">a intern Software engineer intern at Iflytek </h4>
+<h4 align="center">a former intern Software engineer(frontend) at Viomi</h4>
+<h4 align="center">a former intern Software engineer(backend) at zhixixing</h4>
+<h4 align="center">a former Data intern(nlp) at Viomi,</h4>
+<h4 align="center">a former intern Data analyst at fongwell.</h4>
 <br/>
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
