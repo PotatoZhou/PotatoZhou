@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?height=80&lines=Console.log('hello');(displayln 'Hello');std::cout << 'Hello' << std::endl;printf('Hello'); print('hello');puts 'Hello';println!('Hello');fmt.Println('Hello');&center=true&font=Source Code Pro&color=F6F94A" />
 </h1>
 
-<h3 align="center">A Coop math Undergraduate student</h3>
+<h2 align="center">A Coop math Undergraduate student</h2>
 
 <h4 align="center">🌱locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wikitravel.org/en/Waterloo). studying at [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)</h4>
 
