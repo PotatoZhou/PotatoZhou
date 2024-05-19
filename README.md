@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?height=80&lines=Console.log('hello')" />
+  <img src="https://readme-typing-svg.demolab.com/?height=80&lines=Console.log('hello')&center=true" />
 </h1>
 
 <h3 aligin="center"></h3>
