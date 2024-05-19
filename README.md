@@ -7,7 +7,7 @@ locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wiki
 ## Education && Coops
 🔭 Currently
 
-> a undergraduate coop student in Faculty of Mathematics of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)
+<h3 aligin="center"> A undergraduate Mathematics coop student of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)</h3>
 > 
 > a intern Software engineer intern at [Iflytek](https://www.iflytek.com/en/about-us/about.html) &&
 >
@@ -25,10 +25,10 @@ locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wiki
 > intern Data analyst at [Fongwell]().
 
 
+<!--
 ## ⚡ Fun fact:
 not fun at all
 
-<!--
 **PotatoZhou/PotatoZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. hmmmmm, I practice kung fu(wingchun) at middle school!
 
 Here are some ideas to get you started:
