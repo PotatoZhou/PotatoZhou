@@ -7,7 +7,7 @@
 <h4 align="center">🌱 locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wikitravel.org/en/Waterloo).</h4>
 <h4 align="center">studying at [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)</h4>
 
-<h4 align="center">a intern llm platform software engineer at [Listenai](https://www.listenai.com/about/). mainly focus on smart home (ai/iot).</h4>
+<h4 align="center">a intern llm platform software engineer at [Listenai](https://www.listenai.com/about/)</h4>
 <h4 align="center">a intern Software engineer intern at [Iflytek](https://www.iflytek.com/en/about-us/about.html) </h4>
 <h4 align="center">a former intern Software engineer(frontend) at [Viomi]()</h4>
 <h4 align="center">a former intern Software engineer(backend) at [zhixixing]()</h4>
