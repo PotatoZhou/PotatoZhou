@@ -1,4 +1,8 @@
-<h3 aligin="center"> A undergraduate Mathematics coop student of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Console.log('hello')" />
+</h1>
+
+<h3 aligin="center"></h3>
 
 locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wikitravel.org/en/Waterloo). 
 
@@ -6,7 +10,7 @@ locate in [Foshan](https://wikitravel.org/en/Foshan) and [Waterloo](https://wiki
 🔭 Currently
 
 
-> 
+>  A undergraduate Mathematics coop student of [University of Waterloo (uwaterloo)](https://uwaterloo.ca/)
 > a intern Software engineer intern at [Iflytek](https://www.iflytek.com/en/about-us/about.html) &&
 >
 > a intern llm platform software engineer at [Listenai](https://www.listenai.com/about/). mainly focus on smart home (ai/iot).
