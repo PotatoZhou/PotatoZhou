@@ -3,16 +3,11 @@
 </h1>
 
 <h2 align="center">A Coop math Undergraduate student</h2>
-
+<h4 align="center">Software Engineer, Algorithm Engineer, Data Analyst</h4>
 <h4 align="center">🌱 locate in Foshan and Waterloo.</h4>
 <h4 align="center">studying at University of Waterloo</h4>
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAA…Z/3Aqzy3Xbx2N/1mUvR/5b9OiQbgoxnZmAAAAAElFTkSuQmCC" />
-<h4 align="center">a intern llm platform software engineer at Listenai</h4>
-<h4 align="center">a intern Software engineer intern at Iflytek </h4>
-<h4 align="center">a former intern Software engineer(frontend) at Viomi</h4>
-<h4 align="center">a former intern Software engineer(backend) at zhixixing</h4>
-<h4 align="center">a former Data intern(nlp) at Viomi,</h4>
-<h4 align="center">a former intern Data analyst at fongwell.</h4>
+
 <br/>
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
@@ -28,6 +23,12 @@ not fun at all
 **PotatoZhou/PotatoZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. hmmmmm, I practice kung fu(wingchun) at middle school!
 
 Here are some ideas to get you started:
+<h4 align="center">a intern llm platform software engineer at Listenai</h4>
+<h4 align="center">a intern Software engineer intern at Iflytek </h4>
+<h4 align="center">a former intern Software engineer(frontend) at Viomi</h4>
+<h4 align="center">a former intern Software engineer(backend) at zhixixing</h4>
+<h4 align="center">a former Data intern(nlp) at Viomi,</h4>
+<h4 align="center">a former intern Data analyst at fongwell.</h4>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
