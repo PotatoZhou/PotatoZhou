@@ -6,7 +6,7 @@
 <h4 align="center">Software Engineer, Algorithm Engineer, Data Analyst</h4>
 <h4 align="center">🌱 locate in Foshan and Waterloo.</h4>
 <h4 align="center">studying at University of Waterloo</h4>
-<img src="https://commons.wikimedia.org/wiki/File:IFlytek_logo.png" />
+<!-- <img src="https://commons.wikimedia.org/wiki/File:IFlytek_logo.png" /> -->
   
 <br/>
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
