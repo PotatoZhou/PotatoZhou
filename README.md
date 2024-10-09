@@ -6,7 +6,6 @@
 <h4 align="center">Software Engineer, Algorithm Engineer, Data Analyst</h4>
 <h4 align="center">🌱 locate in Foshan and Waterloo.</h4>
 <h4 align="center">studying at University of Waterloo</h4>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAA…Z/3Aqzy3Xbx2N/1mUvR/5b9OiQbgoxnZmAAAAAElFTkSuQmCC" />
 
 <br/>
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
