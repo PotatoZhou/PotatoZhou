@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">Software Engineer, Algorithm Engineer, Data Analyst</h4>
-<h4 align="center">🌱 locate in Foshan and Waterloo.</h4>
+<h4 align="center">🌱 locate in Waterloo.</h4>
 <!-- <img src="https://commons.wikimedia.org/wiki/File:IFlytek_logo.png" /> -->
   
 <br/>
