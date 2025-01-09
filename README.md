@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?height=80&lines=Console.log('hello');(displayln 'Hello');std::cout << 'Hello' << std::endl;printf('Hello'); print('hello');puts 'Hello';println!('Hello');fmt.Println('Hello');&center=true&font=Source Code Pro&color=F6F94A" />
+  <img src="https://readme-typing-svg.demolab.com/?height=80&lines=Console.log('hello');(displayln 'Hello');std::cout << 'Hello' << std::endl;printf('Hello'); print('hello');puts 'Hello';println!('Hello');fmt.Println('Hello');&center=true&font=Source Code Pro&color=A020F0" />
 </h1>
 
 <h4 align="center">Software Engineer, Algorithm Engineer, Data Analyst</h4>
