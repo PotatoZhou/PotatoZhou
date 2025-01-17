@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">mathematics student</h4>
-<h4 align="center">🌱 locate in Waterloo.</h4>
+<h4 align="center">🌱 locate in Waterloo Ontario, Canada</h4>
 <!-- <img src="https://commons.wikimedia.org/wiki/File:IFlytek_logo.png" /> -->
   
 <br/>
