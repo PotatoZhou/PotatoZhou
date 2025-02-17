@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?height=80&lines=Console.log('hello');(displayln 'Hello');std::cout << 'Hello' << std::endl;printf('Hello'); print('hello');puts 'Hello';println!('Hello');fmt.Println('Hello');&center=true&font=Source Code Pro&color=A020F0" />
 </h1>
 
-<h4 align="center">mathematics student</h4>
+<h4 align="center">a Mathematics student @Uwaterloo;) </h4>
 <h4 align="center">🌱 locate in Waterloo Ontario, Canada</h4>
 <!-- <img src="https://commons.wikimedia.org/wiki/File:IFlytek_logo.png" /> -->
   
