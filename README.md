@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?height=80&lines=Console.log('hello');(displayln 'Hello');std::cout << 'Hello' << std::endl;printf('Hello'); print('hello');puts 'Hello';println!('Hello');fmt.Println('Hello');&center=true&font=Source Code Pro&color=A020F0" />
+  <img src="https://readme-typing-svg.herokuapp.com/?height=80&lines=Console.log('hello');std::cout%20<<%20'Hello'%20<<%20std::endl;printf('Hello');print('hello');fmt.Println('Hello');&center=true&font=Source%20Code%20Pro&color=A020F0" />
 </h1>
 
 <h4 align="center">a Mathematics student @Uwaterloo;) </h4>
@@ -11,7 +11,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,react,vue,vscode,nodejs,javascript,ts,tailwindcss,git,r" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=golang,c,java,nextjs,vite, mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=golang,c,java,nextjs,vite,mysql,flask" />
 </div>
 
 <!--
