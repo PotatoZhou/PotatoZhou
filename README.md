@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?height=80&lines=Console.log('hello');std::cout%20<<%20'Hello'%20<<%20std::endl;printf('Hello');print('hello');fmt.Println('Hello');&center=true&font=Source%20Code%20Pro&color=A020F0" />
 </h1>
 
-<h4 align="center">a Mathematics student @Uwaterloo;) </h4>
+<h4 align="center"> Mathematics @Uwaterloo;) </h4>
 <h4 align="center">🌱 locate in Waterloo Ontario, Canada</h4>
 <!-- <img src="https://commons.wikimedia.org/wiki/File:IFlytek_logo.png" /> -->
   
